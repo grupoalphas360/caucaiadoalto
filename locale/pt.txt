@@ -1,0 +1,26 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = @natalepronto @grupoalphas
+
+### Title
+tour.name = Caucaia do Alto - Decoração de Natal - @natalepronto @grupoalphas
+
+## Skin
+
+### Button
+Button_F8D70187_EB10_71EB_41EA_F8E84A904447.label = BAIXE O CATÁLOGO DE NATAL EM PDF
+Button_F8D70187_EB10_71EB_41EA_F8E84A904447_mobile.label = BAIXE O CATÁLOGO DE NATAL EM PDF
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_E6F298B5_EB11_FF2E_41E2_66790E51BB1F.label = 22
+panorama_F1AFD983_EB11_91EB_41EB_684D61B03A19.label = 21
+panorama_FDB9F87C_EB37_9F1E_4161_5112EA11C94A.label = 20
